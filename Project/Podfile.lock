@@ -1,0 +1,14 @@
+PODS:
+  - objc-zmq (0.1.1)
+
+DEPENDENCIES:
+  - objc-zmq (from `../objc-zmq.podspec`)
+
+EXTERNAL SOURCES:
+  objc-zmq:
+    :path: ../objc-zmq.podspec
+
+SPEC CHECKSUMS:
+  objc-zmq: 7d5502abf900810924f62ec3f5ad6bbde99a6bf0
+
+COCOAPODS: 0.29.0
